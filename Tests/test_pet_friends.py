@@ -48,6 +48,7 @@ def test_invalid_filter_for_all_pets():
 
 # POST Добавление нового питомца:
 
+
 def test_add_new_pet_with_valid_data(token):
     """Проверяем что можно добавить питомца с корректными данными"""
 
